@@ -51,7 +51,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VQFTDNRR
 
 [Document2]
 DocumentPath=MyLib Schlib.Lib
@@ -68,7 +68,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WXCKBVDH
 
 [SearchPath1]
 Path=D:\My Work\github\pcb_library\Integrated_Library\Project Outputs for Integrated_Library\Integrated_Library\*.*
